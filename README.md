@@ -7,6 +7,7 @@ Unity3d Shader Graph to draw tiled comics circles sized by sprite / vertex alpha
 - Material.Size control circles size
 - Image.Pixel Per Unit Multiplier controls circles amount
 - Material.Repeat controls circles amount
+- Modify shader graph for your needs
   
 ![{B0FAD58B-8F07-47D1-B485-684A317DA719}](https://github.com/user-attachments/assets/33d6c060-ef7c-4150-ae94-3b54c4c2026f)
 ![{13D3120A-F995-4F7A-8118-35F70BFC2585}](https://github.com/user-attachments/assets/716c5885-fa6c-4e24-9f6a-d0ba7ea77ae9)
