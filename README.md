@@ -2,7 +2,7 @@
 Unity3d Shader Graph to draw tiled comics circles sized by sprite / vertex alpha
 # Instructions
 - use Image.tiled
-- use sprites with backwhite fadeout, gradients
+- use sprites with blackwhite fadeout, gradients
 - Image.color.a control circles size
 - Material.Size control circles size
 - Image.Pixel Per Unit Multiplier controls circles amount
